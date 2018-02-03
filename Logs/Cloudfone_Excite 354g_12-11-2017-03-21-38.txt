@@ -1,0 +1,14 @@
+ Selected connection metod: Meta Connection
+ Exe version: NCKDongle AndroidMTK 2.5.6.2
+ Selected phone: Excite 354g
+ Action : IMEI REPAIR.
+ IMEI for write : 123456789123456
+ Scanning for presents meta ports...
+ Meta ports not detected, starting brom stage.
+ Curent Platform: MT6589
+ Phone must be off with battery inside. 
+ Please insert USB cable now...
+ Phone not detected, aborting, check phone drivers.
+ Try select brom boot checkbox.
+ Error open meta port[COM0].
+ Meta mode error, check if phone driver is corectly installed!

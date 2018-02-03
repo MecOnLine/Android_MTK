@@ -1,0 +1,24 @@
+ File: E:\21 nexus 6\nexus  20\AndroidMTK\AndroidMTK\DA_path\PRELOADER
+ Flash style: EMMC
+ Platform ID:  MT6589  version : 2
+ Custom name:  CUST
+ BLOADER HEADER:  MTK_BLOADER_INFO_v10
+ Preloader:  preloader_jrdsh89_we_us_jb2.bin
+ Flash definitions in preloader:  4
+ [1]Type: MCP(eMMC+DDR2) CID:  1501004B355530304D
+ [2]Type: MCP(eMMC+DDR2) CID:  FE014E503058585858
+ [3]Type: MCP(eMMC+DDR2) CID:  1501004B4A5330304D
+ [4]Type: MCP(eMMC+DDR2) CID:  90014A2058494E5948
+ Phone not detected, aborting, check phone drivers.
+ Phone not detected, aborting!!!!
+ Phone not detected, aborting, check phone drivers.
+ Try select brom boot checkbox.
+ Try select brom boot checkbox.
+ Get port fail.
+ Please reconnect phone again and retry!
+ Error open meta port[COM0].
+ Battery must be charged.
+ Drivers must be installed.
+ Error open meta port[COM0].
+ Meta mode error, check if phone driver is corectly installed!
+ Boot Fail.!!!.

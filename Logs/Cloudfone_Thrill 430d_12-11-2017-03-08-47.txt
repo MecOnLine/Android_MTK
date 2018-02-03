@@ -1,0 +1,9 @@
+ Curent Platform: MT6589
+ Phone must be off with battery inside. 
+ Please insert USB cable now...
+ Phone not detected, aborting!!!!
+ Get port fail.
+ Please reconnect phone again and retry!
+ Battery must be charged.
+ Drivers must be installed.
+ Boot Fail.!!!.

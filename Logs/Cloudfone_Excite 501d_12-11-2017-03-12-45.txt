@@ -1,0 +1,14 @@
+ Selected connection metod: META Mode
+ Exe version: NCKDongle AndroidMTK 2.5.6.2
+ Selected phone: Excite 501d
+ Scanning for presents meta ports...
+ Meta ports not detected, starting brom stage.
+ Curent Platform: MT6577
+ Phone must be off with battery inside. 
+ Please insert USB cable now...
+ Phone not detected, aborting!!!!
+ Get port fail.
+ Please reconnect phone again and retry!
+ Battery must be charged.
+ Drivers must be installed.
+ Boot Fail.!!!.

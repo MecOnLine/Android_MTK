@@ -1,0 +1,11 @@
+ Selected connection metod: META Mode
+ Exe version: NCKDongle AndroidMTK 2.5.6.2
+ Selected phone: iPro A5 (MT6572)
+ Scanning for presents meta ports...
+ Meta ports not detected, starting brom stage.
+ Curent Platform: MT6572
+ Phone must be off with battery inside. 
+ Please insert USB cable now...
+ Phone not detected, aborting, check phone drivers.
+ Try select brom boot checkbox.
+ Error open meta port[COM0].
